@@ -6,7 +6,8 @@ int main()
 {
 
   //This program was made to translate any human speech into a whale language
-  //Whales pronunce every u‘s and e‘s twice, but we got it to work!
+  //Whales pronunce every uâ€˜s and eâ€˜s twice, but we got it to work!
+  
   std::cout << "====================\n\n";
   std::cout <<" Enter text : \n\n";
   std::cout << "====================\n\n";
